@@ -1,0 +1,395 @@
+2019-11-06 | 18:38:38.565 | [] |  INFO | StorageAppJ10Application       | (    55) | Starting StorageAppJ10Application on desktop_devlab with PID 15776 (Z:\projects\akademia\j10online\storage-app-j10\target\classes started by Abc in Z:\projects\akademia\j10online\storage-app-j10)
+2019-11-06 | 18:38:38.568 | [] |  INFO | StorageAppJ10Application       | (   651) | No active profile set, falling back to default profiles: default
+2019-11-06 | 18:38:39.255 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 18:38:39.300 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 41ms. Found 1 repository interfaces.
+2019-11-06 | 18:38:39.313 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 18:38:39.327 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 8ms. Found 1 repository interfaces.
+2019-11-06 | 18:38:39.532 | [] |  INFO | essorRegistrationDelegate$BeanPostProcessorChecker | (   330) | Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 | 18:38:39.703 | [] |  INFO | TomcatWebServer                | (    92) | Tomcat initialized with port(s): 8080 (http)
+2019-11-06 | 18:38:39.710 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2019-11-06 | 18:38:39.710 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 | 18:38:39.785 | [] |  INFO | [/]                            | (   173) | Initializing Spring embedded WebApplicationContext
+2019-11-06 | 18:38:39.785 | [] |  INFO | ContextLoader                  | (   284) | Root WebApplicationContext: initialization completed in 1147 ms
+2019-11-06 | 18:38:39.887 | [] |  INFO | LogHelper                      | (    31) | HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-11-06 | 18:38:39.934 | [] |  INFO | Version                        | (    46) | HHH000412: Hibernate Core {5.4.6.Final}
+2019-11-06 | 18:38:40.030 | [] |  INFO | Version                        | (    49) | HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-11-06 | 18:38:40.165 | [] |  INFO | HikariDataSource               | (   110) | HikariPool-1 - Starting...
+2019-11-06 | 18:38:40.250 | [] |  INFO | HikariDataSource               | (   123) | HikariPool-1 - Start completed.
+2019-11-06 | 18:38:40.263 | [] |  INFO | Dialect                        | (   172) | HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2019-11-06 | 18:38:40.774 | [] |  INFO | JtaPlatformInitiator           | (    52) | HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-11-06 | 18:38:40.778 | [] |  INFO | LocalContainerEntityManagerFactoryBean | (   416) | Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-06 | 18:38:40.916 | [] |  INFO | LocalFileService               | (    46) | Path to uploaded file: /home/lukaszd/uploads/
+2019-11-06 | 18:38:41.004 | [] |  INFO | ThreadPoolTaskExecutor         | (   171) | Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 | 18:38:41.150 | [] |  INFO | TomcatWebServer                | (   204) | Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-06 | 18:38:41.151 | [] |  INFO | StorageAppJ10Application       | (    61) | Started StorageAppJ10Application in 3.068 seconds (JVM running for 4.035)
+2019-11-06 | 18:39:43.424 | [] |  INFO | [/]                            | (   173) | Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-06 | 18:39:43.424 | [] |  INFO | DispatcherServlet              | (   525) | Initializing Servlet 'dispatcherServlet'
+2019-11-06 | 18:39:43.429 | [] |  INFO | DispatcherServlet              | (   547) | Completed initialization in 4 ms
+2019-11-06 | 18:39:43.455 | [] |  WARN | DefaultHandlerExceptionResolver | (   199) | Resolved [org.springframework.web.multipart.support.MissingServletRequestPartException: Required request part 'file' is not present]
+2019-11-06 | 18:43:26.705 | [] |  WARN | DefaultHandlerExceptionResolver | (   199) | Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2019-11-06 | 19:15:05.197 | [] |  INFO | StorageAppJ10Application       | (    55) | Starting StorageAppJ10Application on desktop_devlab with PID 22056 (Z:\projects\akademia\j10online\storage-app-j10\target\classes started by Abc in Z:\projects\akademia\j10online\storage-app-j10)
+2019-11-06 | 19:15:05.199 | [] |  INFO | StorageAppJ10Application       | (   651) | No active profile set, falling back to default profiles: default
+2019-11-06 | 19:15:05.614 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 19:15:05.654 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 36ms. Found 1 repository interfaces.
+2019-11-06 | 19:15:05.661 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 19:15:05.669 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 5ms. Found 1 repository interfaces.
+2019-11-06 | 19:15:05.823 | [] |  INFO | essorRegistrationDelegate$BeanPostProcessorChecker | (   330) | Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 | 19:15:05.958 | [] |  INFO | TomcatWebServer                | (    92) | Tomcat initialized with port(s): 8080 (http)
+2019-11-06 | 19:15:05.964 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2019-11-06 | 19:15:05.964 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 | 19:15:06.020 | [] |  INFO | [/]                            | (   173) | Initializing Spring embedded WebApplicationContext
+2019-11-06 | 19:15:06.020 | [] |  INFO | ContextLoader                  | (   284) | Root WebApplicationContext: initialization completed in 794 ms
+2019-11-06 | 19:15:06.112 | [] |  INFO | LogHelper                      | (    31) | HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-11-06 | 19:15:06.158 | [] |  INFO | Version                        | (    46) | HHH000412: Hibernate Core {5.4.6.Final}
+2019-11-06 | 19:15:06.228 | [] |  INFO | Version                        | (    49) | HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-11-06 | 19:15:06.346 | [] |  INFO | HikariDataSource               | (   110) | HikariPool-1 - Starting...
+2019-11-06 | 19:15:06.407 | [] |  INFO | HikariDataSource               | (   123) | HikariPool-1 - Start completed.
+2019-11-06 | 19:15:06.420 | [] |  INFO | Dialect                        | (   172) | HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2019-11-06 | 19:15:06.810 | [] |  INFO | JtaPlatformInitiator           | (    52) | HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-11-06 | 19:15:06.814 | [] |  INFO | LocalContainerEntityManagerFactoryBean | (   416) | Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-06 | 19:15:06.952 | [] |  INFO | LocalFileService               | (    46) | Path to uploaded file: /home/lukaszd/uploads/
+2019-11-06 | 19:15:07.039 | [] |  INFO | ThreadPoolTaskExecutor         | (   171) | Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 | 19:15:07.180 | [] |  INFO | TomcatWebServer                | (   204) | Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-06 | 19:15:07.181 | [] |  INFO | StorageAppJ10Application       | (    61) | Started StorageAppJ10Application in 2.225 seconds (JVM running for 2.814)
+2019-11-06 | 19:16:28.668 | [] |  INFO | [/]                            | (   173) | Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-06 | 19:16:28.669 | [] |  INFO | DispatcherServlet              | (   525) | Initializing Servlet 'dispatcherServlet'
+2019-11-06 | 19:16:28.673 | [] |  INFO | DispatcherServlet              | (   547) | Completed initialization in 4 ms
+2019-11-06 | 19:27:11.714 | [] |  INFO | StorageAppJ10Application       | (    55) | Starting StorageAppJ10Application on desktop_devlab with PID 22356 (Z:\projects\akademia\j10online\storage-app-j10\target\classes started by Abc in Z:\projects\akademia\j10online\storage-app-j10)
+2019-11-06 | 19:27:11.716 | [] |  INFO | StorageAppJ10Application       | (   651) | No active profile set, falling back to default profiles: default
+2019-11-06 | 19:27:12.065 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 19:27:12.099 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 31ms. Found 1 repository interfaces.
+2019-11-06 | 19:27:12.105 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 19:27:12.113 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 5ms. Found 1 repository interfaces.
+2019-11-06 | 19:27:12.258 | [] |  INFO | essorRegistrationDelegate$BeanPostProcessorChecker | (   330) | Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 | 19:27:12.387 | [] |  INFO | TomcatWebServer                | (    92) | Tomcat initialized with port(s): 8080 (http)
+2019-11-06 | 19:27:12.392 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2019-11-06 | 19:27:12.393 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 | 19:27:12.447 | [] |  INFO | [/]                            | (   173) | Initializing Spring embedded WebApplicationContext
+2019-11-06 | 19:27:12.447 | [] |  INFO | ContextLoader                  | (   284) | Root WebApplicationContext: initialization completed in 707 ms
+2019-11-06 | 19:27:12.540 | [] |  INFO | LogHelper                      | (    31) | HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-11-06 | 19:27:12.587 | [] |  INFO | Version                        | (    46) | HHH000412: Hibernate Core {5.4.6.Final}
+2019-11-06 | 19:27:12.659 | [] |  INFO | Version                        | (    49) | HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-11-06 | 19:27:12.776 | [] |  INFO | HikariDataSource               | (   110) | HikariPool-1 - Starting...
+2019-11-06 | 19:27:12.838 | [] |  INFO | HikariDataSource               | (   123) | HikariPool-1 - Start completed.
+2019-11-06 | 19:27:12.851 | [] |  INFO | Dialect                        | (   172) | HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2019-11-06 | 19:27:13.225 | [] |  INFO | JtaPlatformInitiator           | (    52) | HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-11-06 | 19:27:13.229 | [] |  INFO | LocalContainerEntityManagerFactoryBean | (   416) | Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-06 | 19:27:13.366 | [] |  INFO | LocalFileService               | (    46) | Path to uploaded file: /home/lukaszd/uploads/
+2019-11-06 | 19:27:13.452 | [] |  INFO | ThreadPoolTaskExecutor         | (   171) | Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 | 19:27:13.595 | [] |  INFO | TomcatWebServer                | (   204) | Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-06 | 19:27:13.597 | [] |  INFO | StorageAppJ10Application       | (    61) | Started StorageAppJ10Application in 2.095 seconds (JVM running for 2.705)
+2019-11-06 | 19:28:02.607 | [] |  INFO | StorageAppJ10Application       | (    55) | Starting StorageAppJ10Application on desktop_devlab with PID 18552 (Z:\projects\akademia\j10online\storage-app-j10\target\classes started by Abc in Z:\projects\akademia\j10online\storage-app-j10)
+2019-11-06 | 19:28:02.609 | [] |  INFO | StorageAppJ10Application       | (   651) | No active profile set, falling back to default profiles: default
+2019-11-06 | 19:28:03.046 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 19:28:03.082 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 33ms. Found 1 repository interfaces.
+2019-11-06 | 19:28:03.088 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 19:28:03.095 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 5ms. Found 1 repository interfaces.
+2019-11-06 | 19:28:03.247 | [] |  INFO | essorRegistrationDelegate$BeanPostProcessorChecker | (   330) | Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 | 19:28:03.390 | [] |  INFO | TomcatWebServer                | (    92) | Tomcat initialized with port(s): 8080 (http)
+2019-11-06 | 19:28:03.396 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2019-11-06 | 19:28:03.397 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 | 19:28:03.453 | [] |  INFO | [/]                            | (   173) | Initializing Spring embedded WebApplicationContext
+2019-11-06 | 19:28:03.453 | [] |  INFO | ContextLoader                  | (   284) | Root WebApplicationContext: initialization completed in 820 ms
+2019-11-06 | 19:28:03.544 | [] |  INFO | LogHelper                      | (    31) | HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-11-06 | 19:28:03.590 | [] |  INFO | Version                        | (    46) | HHH000412: Hibernate Core {5.4.6.Final}
+2019-11-06 | 19:28:03.661 | [] |  INFO | Version                        | (    49) | HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-11-06 | 19:28:03.776 | [] |  INFO | HikariDataSource               | (   110) | HikariPool-1 - Starting...
+2019-11-06 | 19:28:03.836 | [] |  INFO | HikariDataSource               | (   123) | HikariPool-1 - Start completed.
+2019-11-06 | 19:28:03.848 | [] |  INFO | Dialect                        | (   172) | HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2019-11-06 | 19:28:04.213 | [] |  INFO | JtaPlatformInitiator           | (    52) | HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-11-06 | 19:28:04.218 | [] |  INFO | LocalContainerEntityManagerFactoryBean | (   416) | Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-06 | 19:28:04.351 | [] |  INFO | LocalFileService               | (    46) | Path to uploaded file: /home/lukaszd/uploads/
+2019-11-06 | 19:28:04.436 | [] |  INFO | ThreadPoolTaskExecutor         | (   171) | Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 | 19:28:04.468 | [] |  WARN | AnnotationConfigServletWebServerApplicationContext | (   558) | Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'dataBaseFileController' method 
+akademia.databaseStorage.controller.DataBaseFileController#uploadFiles(MultipartFile[])
+to {POST /api/v1/db/files}: There is already 'dataBaseFileController' bean method
+akademia.databaseStorage.controller.DataBaseFileController#uploadFile(MultipartFile) mapped.
+2019-11-06 | 19:28:04.469 | [] |  INFO | ThreadPoolTaskExecutor         | (   208) | Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-06 | 19:28:04.469 | [] |  INFO | LocalContainerEntityManagerFactoryBean | (   598) | Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-11-06 | 19:28:04.470 | [] |  INFO | HikariDataSource               | (   350) | HikariPool-1 - Shutdown initiated...
+2019-11-06 | 19:28:04.472 | [] |  INFO | HikariDataSource               | (   352) | HikariPool-1 - Shutdown completed.
+2019-11-06 | 19:28:04.474 | [] |  INFO | StandardService                | (   173) | Stopping service [Tomcat]
+2019-11-06 | 19:28:04.480 | [] |  INFO | ConditionEvaluationReportLoggingListener | (   136) | 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-11-06 | 19:28:04.486 | [] | ERROR | SpringApplication              | (   826) | Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'dataBaseFileController' method 
+akademia.databaseStorage.controller.DataBaseFileController#uploadFiles(MultipartFile[])
+to {POST /api/v1/db/files}: There is already 'dataBaseFileController' bean method
+akademia.databaseStorage.controller.DataBaseFileController#uploadFile(MultipartFile) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1803)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:595)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:878)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at akademia.StorageAppJ10Application.main(StorageAppJ10Application.java:10)
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'dataBaseFileController' method 
+akademia.databaseStorage.controller.DataBaseFileController#uploadFiles(MultipartFile[])
+to {POST /api/v1/db/files}: There is already 'dataBaseFileController' bean method
+akademia.databaseStorage.controller.DataBaseFileController#uploadFile(MultipartFile) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:633)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:600)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:318)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:350)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:67)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:288)
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:684)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:286)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:258)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:217)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:205)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:171)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1862)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1799)
+	... 16 common frames omitted
+2019-11-06 | 19:28:43.587 | [] |  INFO | StorageAppJ10Application       | (    55) | Starting StorageAppJ10Application on desktop_devlab with PID 21812 (Z:\projects\akademia\j10online\storage-app-j10\target\classes started by Abc in Z:\projects\akademia\j10online\storage-app-j10)
+2019-11-06 | 19:28:43.590 | [] |  INFO | StorageAppJ10Application       | (   651) | No active profile set, falling back to default profiles: default
+2019-11-06 | 19:28:44.025 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 19:28:44.063 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 35ms. Found 1 repository interfaces.
+2019-11-06 | 19:28:44.070 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 19:28:44.079 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 6ms. Found 1 repository interfaces.
+2019-11-06 | 19:28:44.222 | [] |  INFO | essorRegistrationDelegate$BeanPostProcessorChecker | (   330) | Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 | 19:28:44.357 | [] |  INFO | TomcatWebServer                | (    92) | Tomcat initialized with port(s): 8080 (http)
+2019-11-06 | 19:28:44.362 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2019-11-06 | 19:28:44.362 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 | 19:28:44.415 | [] |  INFO | [/]                            | (   173) | Initializing Spring embedded WebApplicationContext
+2019-11-06 | 19:28:44.416 | [] |  INFO | ContextLoader                  | (   284) | Root WebApplicationContext: initialization completed in 803 ms
+2019-11-06 | 19:28:44.503 | [] |  INFO | LogHelper                      | (    31) | HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-11-06 | 19:28:44.548 | [] |  INFO | Version                        | (    46) | HHH000412: Hibernate Core {5.4.6.Final}
+2019-11-06 | 19:28:44.620 | [] |  INFO | Version                        | (    49) | HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-11-06 | 19:28:44.733 | [] |  INFO | HikariDataSource               | (   110) | HikariPool-1 - Starting...
+2019-11-06 | 19:28:44.793 | [] |  INFO | HikariDataSource               | (   123) | HikariPool-1 - Start completed.
+2019-11-06 | 19:28:44.805 | [] |  INFO | Dialect                        | (   172) | HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2019-11-06 | 19:28:45.181 | [] |  INFO | JtaPlatformInitiator           | (    52) | HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-11-06 | 19:28:45.185 | [] |  INFO | LocalContainerEntityManagerFactoryBean | (   416) | Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-06 | 19:28:45.322 | [] |  INFO | LocalFileService               | (    46) | Path to uploaded file: /home/lukaszd/uploads/
+2019-11-06 | 19:28:45.411 | [] |  INFO | ThreadPoolTaskExecutor         | (   171) | Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 | 19:28:45.553 | [] |  INFO | TomcatWebServer                | (   204) | Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-06 | 19:28:45.554 | [] |  INFO | StorageAppJ10Application       | (    61) | Started StorageAppJ10Application in 2.187 seconds (JVM running for 2.78)
+2019-11-06 | 19:30:02.690 | [] |  INFO | [/]                            | (   173) | Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-06 | 19:30:02.691 | [] |  INFO | DispatcherServlet              | (   525) | Initializing Servlet 'dispatcherServlet'
+2019-11-06 | 19:30:02.695 | [] |  INFO | DispatcherServlet              | (   547) | Completed initialization in 4 ms
+2019-11-06 | 19:30:02.767 | [] |  WARN | DefaultHandlerExceptionResolver | (   199) | Resolved [org.springframework.web.multipart.support.MissingServletRequestPartException: Required request part 'file' is not present]
+2019-11-06 | 19:47:51.339 | [] |  INFO | StorageAppJ10Application       | (    55) | Starting StorageAppJ10Application on desktop_devlab with PID 24068 (Z:\projects\akademia\j10online\storage-app-j10\target\classes started by Abc in Z:\projects\akademia\j10online\storage-app-j10)
+2019-11-06 | 19:47:51.341 | [] |  INFO | StorageAppJ10Application       | (   651) | No active profile set, falling back to default profiles: default
+2019-11-06 | 19:47:51.770 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 19:47:51.808 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 34ms. Found 1 repository interfaces.
+2019-11-06 | 19:47:51.814 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 19:47:51.822 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 5ms. Found 1 repository interfaces.
+2019-11-06 | 19:47:51.972 | [] |  INFO | essorRegistrationDelegate$BeanPostProcessorChecker | (   330) | Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 | 19:47:52.108 | [] |  INFO | TomcatWebServer                | (    92) | Tomcat initialized with port(s): 8080 (http)
+2019-11-06 | 19:47:52.113 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2019-11-06 | 19:47:52.114 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 | 19:47:52.169 | [] |  INFO | [/]                            | (   173) | Initializing Spring embedded WebApplicationContext
+2019-11-06 | 19:47:52.169 | [] |  INFO | ContextLoader                  | (   284) | Root WebApplicationContext: initialization completed in 803 ms
+2019-11-06 | 19:47:52.261 | [] |  INFO | LogHelper                      | (    31) | HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-11-06 | 19:47:52.307 | [] |  INFO | Version                        | (    46) | HHH000412: Hibernate Core {5.4.6.Final}
+2019-11-06 | 19:47:52.379 | [] |  INFO | Version                        | (    49) | HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-11-06 | 19:47:52.501 | [] |  INFO | HikariDataSource               | (   110) | HikariPool-1 - Starting...
+2019-11-06 | 19:47:52.561 | [] |  INFO | HikariDataSource               | (   123) | HikariPool-1 - Start completed.
+2019-11-06 | 19:47:52.574 | [] |  INFO | Dialect                        | (   172) | HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2019-11-06 | 19:47:52.951 | [] |  INFO | JtaPlatformInitiator           | (    52) | HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-11-06 | 19:47:52.956 | [] |  INFO | LocalContainerEntityManagerFactoryBean | (   416) | Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-06 | 19:47:53.093 | [] |  INFO | LocalFileService               | (    46) | Path to uploaded file: /home/lukaszd/uploads/
+2019-11-06 | 19:47:53.186 | [] |  INFO | ThreadPoolTaskExecutor         | (   171) | Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 | 19:47:53.330 | [] |  INFO | TomcatWebServer                | (   204) | Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-06 | 19:47:53.331 | [] |  INFO | StorageAppJ10Application       | (    61) | Started StorageAppJ10Application in 2.222 seconds (JVM running for 2.786)
+2019-11-06 | 19:48:36.267 | [] |  INFO | StorageAppJ10Application       | (    55) | Starting StorageAppJ10Application on desktop_devlab with PID 5724 (Z:\projects\akademia\j10online\storage-app-j10\target\classes started by Abc in Z:\projects\akademia\j10online\storage-app-j10)
+2019-11-06 | 19:48:36.269 | [] |  INFO | StorageAppJ10Application       | (   651) | No active profile set, falling back to default profiles: default
+2019-11-06 | 19:48:36.916 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 19:48:36.953 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 35ms. Found 1 repository interfaces.
+2019-11-06 | 19:48:36.960 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 19:48:36.969 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 6ms. Found 1 repository interfaces.
+2019-11-06 | 19:48:37.109 | [] |  INFO | essorRegistrationDelegate$BeanPostProcessorChecker | (   330) | Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 | 19:48:37.237 | [] |  INFO | TomcatWebServer                | (    92) | Tomcat initialized with port(s): 8080 (http)
+2019-11-06 | 19:48:37.242 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2019-11-06 | 19:48:37.242 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 | 19:48:37.297 | [] |  INFO | [/]                            | (   173) | Initializing Spring embedded WebApplicationContext
+2019-11-06 | 19:48:37.297 | [] |  INFO | ContextLoader                  | (   284) | Root WebApplicationContext: initialization completed in 1002 ms
+2019-11-06 | 19:48:37.385 | [] |  INFO | LogHelper                      | (    31) | HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-11-06 | 19:48:37.432 | [] |  INFO | Version                        | (    46) | HHH000412: Hibernate Core {5.4.6.Final}
+2019-11-06 | 19:48:37.504 | [] |  INFO | Version                        | (    49) | HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-11-06 | 19:48:37.617 | [] |  INFO | HikariDataSource               | (   110) | HikariPool-1 - Starting...
+2019-11-06 | 19:48:37.678 | [] |  INFO | HikariDataSource               | (   123) | HikariPool-1 - Start completed.
+2019-11-06 | 19:48:37.691 | [] |  INFO | Dialect                        | (   172) | HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2019-11-06 | 19:48:38.073 | [] |  INFO | JtaPlatformInitiator           | (    52) | HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-11-06 | 19:48:38.077 | [] |  INFO | LocalContainerEntityManagerFactoryBean | (   416) | Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-06 | 19:48:38.213 | [] |  INFO | LocalFileService               | (    46) | Path to uploaded file: /home/lukaszd/uploads/
+2019-11-06 | 19:48:38.302 | [] |  INFO | ThreadPoolTaskExecutor         | (   171) | Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 | 19:48:38.451 | [] |  INFO | TomcatWebServer                | (   204) | Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-06 | 19:48:38.453 | [] |  INFO | StorageAppJ10Application       | (    61) | Started StorageAppJ10Application in 2.412 seconds (JVM running for 2.982)
+2019-11-06 | 19:48:43.146 | [] |  INFO | [/]                            | (   173) | Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-06 | 19:48:43.146 | [] |  INFO | DispatcherServlet              | (   525) | Initializing Servlet 'dispatcherServlet'
+2019-11-06 | 19:48:43.151 | [] |  INFO | DispatcherServlet              | (   547) | Completed initialization in 5 ms
+2019-11-06 | 19:52:56.380 | [] |  INFO | StorageAppJ10Application       | (    55) | Starting StorageAppJ10Application on desktop_devlab with PID 13616 (Z:\projects\akademia\j10online\storage-app-j10\target\classes started by Abc in Z:\projects\akademia\j10online\storage-app-j10)
+2019-11-06 | 19:52:56.382 | [] |  INFO | StorageAppJ10Application       | (   651) | No active profile set, falling back to default profiles: default
+2019-11-06 | 19:52:56.781 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 19:52:56.816 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 31ms. Found 1 repository interfaces.
+2019-11-06 | 19:52:56.822 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 19:52:56.830 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 5ms. Found 1 repository interfaces.
+2019-11-06 | 19:52:56.972 | [] |  INFO | essorRegistrationDelegate$BeanPostProcessorChecker | (   330) | Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 | 19:52:57.109 | [] |  INFO | TomcatWebServer                | (    92) | Tomcat initialized with port(s): 8080 (http)
+2019-11-06 | 19:52:57.114 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2019-11-06 | 19:52:57.115 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 | 19:52:57.169 | [] |  INFO | [/]                            | (   173) | Initializing Spring embedded WebApplicationContext
+2019-11-06 | 19:52:57.170 | [] |  INFO | ContextLoader                  | (   284) | Root WebApplicationContext: initialization completed in 763 ms
+2019-11-06 | 19:52:57.259 | [] |  INFO | LogHelper                      | (    31) | HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-11-06 | 19:52:57.307 | [] |  INFO | Version                        | (    46) | HHH000412: Hibernate Core {5.4.6.Final}
+2019-11-06 | 19:52:57.381 | [] |  INFO | Version                        | (    49) | HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-11-06 | 19:52:57.493 | [] |  INFO | HikariDataSource               | (   110) | HikariPool-1 - Starting...
+2019-11-06 | 19:52:57.553 | [] |  INFO | HikariDataSource               | (   123) | HikariPool-1 - Start completed.
+2019-11-06 | 19:52:57.566 | [] |  INFO | Dialect                        | (   172) | HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2019-11-06 | 19:52:57.934 | [] |  INFO | JtaPlatformInitiator           | (    52) | HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-11-06 | 19:52:57.938 | [] |  INFO | LocalContainerEntityManagerFactoryBean | (   416) | Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-06 | 19:52:58.069 | [] |  INFO | LocalFileService               | (    46) | Path to uploaded file: /home/lukaszd/uploads/
+2019-11-06 | 19:52:58.152 | [] |  INFO | ThreadPoolTaskExecutor         | (   171) | Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 | 19:52:58.292 | [] |  INFO | TomcatWebServer                | (   204) | Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-06 | 19:52:58.293 | [] |  INFO | StorageAppJ10Application       | (    61) | Started StorageAppJ10Application in 2.14 seconds (JVM running for 2.736)
+2019-11-06 | 19:53:46.842 | [] |  INFO | [/]                            | (   173) | Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-06 | 19:53:46.842 | [] |  INFO | DispatcherServlet              | (   525) | Initializing Servlet 'dispatcherServlet'
+2019-11-06 | 19:53:46.845 | [] |  INFO | DispatcherServlet              | (   547) | Completed initialization in 3 ms
+2019-11-06 | 19:54:21.548 | [] | ERROR | [dispatcherServlet]            | (   175) | Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.InvalidDataAccessApiUsageException: The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!] with root cause
+java.lang.IllegalArgumentException: The given id must not be null!
+	at org.springframework.util.Assert.notNull(Assert.java:198)
+	at org.springframework.data.jpa.repository.support.SimpleJpaRepository.getOne(SimpleJpaRepository.java:301)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.data.repository.core.support.RepositoryComposition$RepositoryFragments.invoke(RepositoryComposition.java:371)
+	at org.springframework.data.repository.core.support.RepositoryComposition.invoke(RepositoryComposition.java:204)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$ImplementationMethodExecutionInterceptor.invoke(RepositoryFactorySupport.java:657)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.doInvoke(RepositoryFactorySupport.java:621)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.invoke(RepositoryFactorySupport.java:605)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:353)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:99)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:178)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:93)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy96.getOne(Unknown Source)
+	at akademia.databaseStorage.service.DataBaseFileService.downloadFile(DataBaseFileService.java:105)
+	at akademia.databaseStorage.controller.DataBaseFileController.downloadFile(DataBaseFileController.java:49)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:888)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:526)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:861)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1579)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-06 | 19:55:08.478 | [] |  INFO | StorageAppJ10Application       | (    55) | Starting StorageAppJ10Application on desktop_devlab with PID 14640 (Z:\projects\akademia\j10online\storage-app-j10\target\classes started by Abc in Z:\projects\akademia\j10online\storage-app-j10)
+2019-11-06 | 19:55:08.480 | [] |  INFO | StorageAppJ10Application       | (   651) | No active profile set, falling back to default profiles: default
+2019-11-06 | 19:55:08.887 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 19:55:08.920 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 30ms. Found 1 repository interfaces.
+2019-11-06 | 19:55:08.926 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 19:55:08.934 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 5ms. Found 1 repository interfaces.
+2019-11-06 | 19:55:09.076 | [] |  INFO | essorRegistrationDelegate$BeanPostProcessorChecker | (   330) | Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 | 19:55:09.209 | [] |  INFO | TomcatWebServer                | (    92) | Tomcat initialized with port(s): 8080 (http)
+2019-11-06 | 19:55:09.214 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2019-11-06 | 19:55:09.214 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 | 19:55:09.267 | [] |  INFO | [/]                            | (   173) | Initializing Spring embedded WebApplicationContext
+2019-11-06 | 19:55:09.268 | [] |  INFO | ContextLoader                  | (   284) | Root WebApplicationContext: initialization completed in 760 ms
+2019-11-06 | 19:55:09.356 | [] |  INFO | LogHelper                      | (    31) | HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-11-06 | 19:55:09.400 | [] |  INFO | Version                        | (    46) | HHH000412: Hibernate Core {5.4.6.Final}
+2019-11-06 | 19:55:09.474 | [] |  INFO | Version                        | (    49) | HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-11-06 | 19:55:09.586 | [] |  INFO | HikariDataSource               | (   110) | HikariPool-1 - Starting...
+2019-11-06 | 19:55:09.647 | [] |  INFO | HikariDataSource               | (   123) | HikariPool-1 - Start completed.
+2019-11-06 | 19:55:09.660 | [] |  INFO | Dialect                        | (   172) | HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2019-11-06 | 19:55:10.034 | [] |  INFO | JtaPlatformInitiator           | (    52) | HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-11-06 | 19:55:10.039 | [] |  INFO | LocalContainerEntityManagerFactoryBean | (   416) | Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-06 | 19:55:10.174 | [] |  INFO | LocalFileService               | (    46) | Path to uploaded file: /home/lukaszd/uploads/
+2019-11-06 | 19:55:10.258 | [] |  INFO | ThreadPoolTaskExecutor         | (   171) | Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 | 19:55:10.398 | [] |  INFO | TomcatWebServer                | (   204) | Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-06 | 19:55:10.400 | [] |  INFO | StorageAppJ10Application       | (    61) | Started StorageAppJ10Application in 2.143 seconds (JVM running for 2.713)
+2019-11-06 | 19:55:20.079 | [] |  INFO | [/]                            | (   173) | Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-06 | 19:55:20.079 | [] |  INFO | DispatcherServlet              | (   525) | Initializing Servlet 'dispatcherServlet'
+2019-11-06 | 19:55:20.083 | [] |  INFO | DispatcherServlet              | (   547) | Completed initialization in 4 ms
+2019-11-06 | 19:56:01.426 | [] |  INFO | StorageAppJ10Application       | (    55) | Starting StorageAppJ10Application on desktop_devlab with PID 7664 (Z:\projects\akademia\j10online\storage-app-j10\target\classes started by Abc in Z:\projects\akademia\j10online\storage-app-j10)
+2019-11-06 | 19:56:01.428 | [] |  INFO | StorageAppJ10Application       | (   651) | No active profile set, falling back to default profiles: default
+2019-11-06 | 19:56:01.827 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 19:56:01.864 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 33ms. Found 1 repository interfaces.
+2019-11-06 | 19:56:01.870 | [] |  INFO | RepositoryConfigurationDelegate | (   126) | Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-11-06 | 19:56:01.879 | [] |  INFO | RepositoryConfigurationDelegate | (   182) | Finished Spring Data repository scanning in 6ms. Found 1 repository interfaces.
+2019-11-06 | 19:56:02.030 | [] |  INFO | essorRegistrationDelegate$BeanPostProcessorChecker | (   330) | Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-11-06 | 19:56:02.163 | [] |  INFO | TomcatWebServer                | (    92) | Tomcat initialized with port(s): 8080 (http)
+2019-11-06 | 19:56:02.169 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2019-11-06 | 19:56:02.169 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-06 | 19:56:02.223 | [] |  INFO | [/]                            | (   173) | Initializing Spring embedded WebApplicationContext
+2019-11-06 | 19:56:02.224 | [] |  INFO | ContextLoader                  | (   284) | Root WebApplicationContext: initialization completed in 773 ms
+2019-11-06 | 19:56:02.315 | [] |  INFO | LogHelper                      | (    31) | HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-11-06 | 19:56:02.361 | [] |  INFO | Version                        | (    46) | HHH000412: Hibernate Core {5.4.6.Final}
+2019-11-06 | 19:56:02.431 | [] |  INFO | Version                        | (    49) | HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-11-06 | 19:56:02.546 | [] |  INFO | HikariDataSource               | (   110) | HikariPool-1 - Starting...
+2019-11-06 | 19:56:02.607 | [] |  INFO | HikariDataSource               | (   123) | HikariPool-1 - Start completed.
+2019-11-06 | 19:56:02.620 | [] |  INFO | Dialect                        | (   172) | HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2019-11-06 | 19:56:02.996 | [] |  INFO | JtaPlatformInitiator           | (    52) | HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-11-06 | 19:56:03.000 | [] |  INFO | LocalContainerEntityManagerFactoryBean | (   416) | Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-11-06 | 19:56:03.141 | [] |  INFO | LocalFileService               | (    46) | Path to uploaded file: /home/lukaszd/uploads/
+2019-11-06 | 19:56:03.239 | [] |  INFO | ThreadPoolTaskExecutor         | (   171) | Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-06 | 19:56:03.385 | [] |  INFO | TomcatWebServer                | (   204) | Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-06 | 19:56:03.386 | [] |  INFO | StorageAppJ10Application       | (    61) | Started StorageAppJ10Application in 2.181 seconds (JVM running for 2.749)
+2019-11-06 | 19:56:10.780 | [] |  INFO | [/]                            | (   173) | Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-06 | 19:56:10.781 | [] |  INFO | DispatcherServlet              | (   525) | Initializing Servlet 'dispatcherServlet'
+2019-11-06 | 19:56:10.785 | [] |  INFO | DispatcherServlet              | (   547) | Completed initialization in 4 ms
